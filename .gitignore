@@ -1,3 +1,4 @@
 providers/*
-config.yaml
+*.yaml
 *.exe
+*.md
